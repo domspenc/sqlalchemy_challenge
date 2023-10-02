@@ -61,4 +61,6 @@ It contains the following routes:</p>
 <p>Thank you for reading!</p> 
 <h3>🌈🌈🌈</h3>
 </br>
+<p><a>I utilised some additional resources for this project, in particular my bootcamp tutor.</a></p>
+</br>
 <p><a>Image sourced from History.com</a></p>
